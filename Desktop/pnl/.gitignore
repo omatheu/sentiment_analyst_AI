@@ -1,0 +1,4 @@
+dados/*.csv
+project_inteli/data/*.csv
+project_inteli/data/*.sh
+*.csv
